@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6j0359/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 西天譯經三藏朝散大夫試光祿卿明教大師臣法賢奉詔譯怛𭔞切身他引一悉哩悉哩二娑囉娑囉三酥嚕酥嚕四達囉達囉五左囉左囉六摩賀引左囉七婆囉婆囉八摩賀引婆囉九紺波紺波十摩賀引紺波十一吽引末娑囉達哩摩二合阿屹囉二合娑引誐囉娑嚩二合引賀引十二
+  hash: sha256:2b4d4696aece7eda57ce5794dba997d15491194edfe1cfc871f7943d779f83ad
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 佛說慈氏菩薩陀羅尼, id: KR6j0359_T_001-juan-start, juan_n: '001', jhead: 佛說慈氏菩薩陀羅尼}
+  - {type: 'cbeta:juan-end', offset: 113, content: 佛說慈氏菩薩陀羅尼, id: KR6j0359_T_001-juan-end, juan_n: '001', jhead: 佛說慈氏菩薩陀羅尼}
+metadata:
+  title: 佛說慈氏菩薩陀羅尼
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1142.xml
+    old_id: T20n1142
+hash: sha256:4cf20f795de0d699c342d5fc4e22d38be4fb5876467c088987e14ea64eba3764
