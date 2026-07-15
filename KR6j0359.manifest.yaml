@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0359/v1
 canonical_location: https://kanripo.org/bkk/KR6j0359/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 佛說慈氏菩薩陀羅尼
   identifiers:
@@ -27,11 +27,21 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0359_000.yaml, hash: 'sha256:dbf4ccbd0ddc19c6969770ba981c19fcd94d77a51cf3c2b07f487f6493d45c26'}
-  - {seq: 1, filename: KR6j0359_001.yaml, hash: 'sha256:4cf20f795de0d699c342d5fc4e22d38be4fb5876467c088987e14ea64eba3764'}
+  - seq: 0
+    filename: KR6j0359_000.yaml
+    hash: sha256:dbf4ccbd0ddc19c6969770ba981c19fcd94d77a51cf3c2b07f487f6493d45c26
+  - seq: 1
+    filename: KR6j0359_001.yaml
+    hash: sha256:4cf20f795de0d699c342d5fc4e22d38be4fb5876467c088987e14ea64eba3764
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0359_000.markers.yaml, hash: 'sha256:798774891f5c818fe4d9abdc559bed09e42cfa45e3875acd4bb82ebca448d363'}
-  - {seq: 1, role: markers, filename: assets/KR6j0359_001.markers.yaml, hash: 'sha256:ec302ae0a5e73e049add1c30592efe83d5684d118f0c08a634cfa8d430e20ef5'}
+  - seq: 0
+    role: markers
+    filename: assets/KR6j0359_000.markers.yaml
+    hash: sha256:798774891f5c818fe4d9abdc559bed09e42cfa45e3875acd4bb82ebca448d363
+  - seq: 1
+    role: markers
+    filename: assets/KR6j0359_001.markers.yaml
+    hash: sha256:ec302ae0a5e73e049add1c30592efe83d5684d118f0c08a634cfa8d430e20ef5
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +53,4 @@ table_of_contents:
   label: 佛說慈氏菩薩陀羅尼
   type: juan
   level: 1
-hash: sha256:9e501ab916d7c4a83653e16d633457a1daf49994e8792e1b074bbd0034ff5edc
+hash: sha256:53a9853ff03c46860bf0e86c8a36a7e984e6dd74b60bcf6eb033883678cce05b
